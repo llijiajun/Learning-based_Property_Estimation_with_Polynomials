@@ -6,6 +6,11 @@
 * Ubuntu
 * Python 3.7
 
+### Training data
+
+* cd learned_ndv_estimator
+* download learned_ndv_estimator and regenerate the training datasets with learned_ndv_estimator
+
 ### File
 * NDV.ipynb : Performance of NDV estimation on four datasets
 * Entropy.ipynb : Performance of entropy estimation on four datasets
